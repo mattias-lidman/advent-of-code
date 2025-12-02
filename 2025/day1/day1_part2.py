@@ -1,4 +1,3 @@
-
 dial = 50
 zeroes = 0
 
